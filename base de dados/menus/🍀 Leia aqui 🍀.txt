@@ -1,0 +1,24 @@
+Você precisa ter instalado: mt manager (editor de código)
+
+Termux (terminal onde você irá executar o bot por lá)
+
+Comandos básicos do termux
+
+1° COMANDO:
+termux-setup-storage
+
+2° COMANDO:
+cd /sdcard/downloads/kanako-bot
+
+Ou 
+
+cd /sdcard/kanako-bot
+
+3° COMANDO:
+sh install.sh
+
+4° COMANDO:
+Vai precisar digitar y e confirmar toda vez que pedir.
+
+5° COMANDO:
+sh iniciar.sh
